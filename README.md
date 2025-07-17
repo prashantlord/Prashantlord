@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 My Portfolio is on  <a href="https://prashantshrestha0.com.np/" target="_blank">www.prashantshrestha0.com.np</a>
+- 👨‍💻 My Portfolio is on  <a href="https://prashantshrestha0.com.np/" target="_blank">PrashantShrestha</a>
 
 - 💬 Ask me about **React**
 
