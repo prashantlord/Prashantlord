@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantlord&label=Profile%20views&color=0e75b6&style=flat" alt="prashantlord" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 My Portfolio is on  <a href="https://prashantshrestha0.com.np/" target="_blank">PrashantShrestha</a>
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **PHP**
 
 - 📫 How to reach me **prashants2062@gmail.com**
 
