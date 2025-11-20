@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantlord&label=Profile%20views&color=0e75b6&style=flat" alt="prashantlord" /> </p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **TS**
 
 - 👨‍💻 My Portfolio is on  <a href="https://prashantshrestha0.com.np/" target="_blank">PrashantShrestha</a>
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **TS**
 
 - 📫 How to reach me **prashants2062@gmail.com**
 
-- ⚡ Fun fact **I know every thing**
+- ⚡ Fun fact **Easy Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
