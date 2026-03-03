@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 ## About Me
 
 - **Role**: Web Developer (Frontend: React.js | Backend: Laravel)
@@ -18,8 +16,6 @@
 - **Open to Work**: Backend projects using Laravel or Express
 - **Reach Me**: prashants2062@gmail.com
 - **Interests**: Monolithic Architecture, Backend Development
-
----
 
 ## 🛠️ Tech Stack
 
@@ -30,14 +26,10 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
 ### Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -48,8 +40,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
 ## 🎯 Current Goals
 
 - Strengthening backend architecture skills (Laravel & Express)
@@ -57,16 +47,12 @@
 - Deepening knowledge of relational & NoSQL databases
 - Building scalable monolithic backend systems
 
----
-
 ## 🤝 Let's Connect!
 
 I'm always open to collaboration and backend development opportunities.
 
 - Email: prashants2062@gmail.com  
 - Open to: Backend Laravel / Express projects, Open Source Contributions  
-
----
 
 <!---
 prashantlord/prashantlord is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
