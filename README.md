@@ -1,35 +1,73 @@
-<h1 align="center">Hi 👋, I'm Prashant Shrestha</h1>
+# 👋 Hi there, I'm Prashant Shrestha (@prashantlord)
 
-<h3 align="center">A Web Developer from Kathmandu, Nepal</h3>
+<div align="center">
+  
+### Web Developer | React.js | Laravel | Backend Enthusiast
 
-- 🌱 I’m currently learning **Laravel/PHP**
+[![Email](https://img.shields.io/badge/Email-prashants2062%40gmail.com-red?style=flat-square&logo=gmail)](mailto:prashants2062@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/prashantlord?label=Follow&style=social)](https://github.com/prashantlord)
 
-- 👨‍💻 My Portfolio is on  <a href="https://prashantshrestha0.com.np/" target="_blank">PrashantShrestha</a>
+</div>
 
-- 💬 Ask me about **PHP, React, Typescript**
+---
 
-- 📫 How to reach me **prashants2062@gmail.com**
+## About Me
 
-- ⚡ Fun fact **Easy Learner**
+- **Role**: Web Developer (Frontend: React.js | Backend: Laravel)
+- **Currently Learning**: Express.js & MongoDB
+- **Open to Work**: Backend projects using Laravel or Express
+- **Reach Me**: prashants2062@gmail.com
+- **Interests**: Monolithic Architecture, Backend Development
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/prashantshre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashantshre/" height="30" width="40" /></a>
-<a href="mailto:prashants2062@gmail.com" target="blank"> <img height="30" alt="prashants2062@gmail.com"  align="center" height="512" alt="image" src="https://github.com/user-attachments/assets/a3181a16-424a-4d0e-8723-2be27eef13b2" /> </a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"          height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfitrjP8RaSyij0rDzOFvzl92--bwK-uGsw&s" alt="laravel" width="40" height="40"/>  </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   
-</p>
+## 🛠️ Tech Stack
 
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
+
+### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🎯 Current Goals
+
+- Strengthening backend architecture skills (Laravel & Express)
+- Mastering RESTful API development
+- Deepening knowledge of relational & NoSQL databases
+- Building scalable monolithic backend systems
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to collaboration and backend development opportunities.
+
+- Email: prashants2062@gmail.com  
+- Open to: Backend Laravel / Express projects, Open Source Contributions  
+
+---
+
+<!---
+prashantlord/prashantlord is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+--->
